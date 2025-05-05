@@ -1,0 +1,452 @@
+[
+  {
+    "title": "Demo Item 1",
+    "description": "This is a demo item for testing.",
+    "price": 419.59,
+    "category_id": 3,
+    "condition_type": "Good",
+    "location": "Silver Spring, MD",
+    "image_url": "https://images.offerup.com/0/ele40lv7c0qnar7ob1bzdnli6nqf5z0u/0/0"
+  },
+  {
+    "title": "Demo Item 2",
+    "description": "This is a demo item for testing.",
+    "price": 326.52,
+    "category_id": 1,
+    "condition_type": "Poor",
+    "location": "Falls Church, VA",
+    "image_url": "https://images.offerup.com/0/q577gov7t8rf1qbe9xpy54rjk5393wc5/0/0"
+  },
+  {
+    "title": "Demo Item 3",
+    "description": "This is a demo item for testing.",
+    "price": 105.09,
+    "category_id": 2,
+    "condition_type": "New",
+    "location": "Washington, DC",
+    "image_url": "https://images.offerup.com/0/k3c6ieuuws8yu4w8mk06rq9heoivonw3/0/0"
+  },
+  {
+    "title": "Demo Item 4",
+    "description": "This is a demo item for testing.",
+    "price": 330.9,
+    "category_id": 2,
+    "condition_type": "Good",
+    "location": "Falls Church, VA",
+    "image_url": "https://images.offerup.com/0/haw01p4vp5ghdylpzdlx52swzuu0vhpc/0/0"
+  },
+  {
+    "title": "Demo Item 5",
+    "description": "This is a demo item for testing.",
+    "price": 15.35,
+    "category_id": 5,
+    "condition_type": "Good",
+    "location": "Arlington, VA",
+    "image_url": "https://images.offerup.com/0/zk4kzsne24lhe9h56hs2wekfyk5phbwq/0/0"
+  },
+  {
+    "title": "Demo Item 6",
+    "description": "This is a demo item for testing.",
+    "price": 63.57,
+    "category_id": 5,
+    "condition_type": "Poor",
+    "location": "Manassas, VA",
+    "image_url": "https://images.offerup.com/0/jazydfkd1fj2828tad66c7qlwjlokg92/0/0"
+  },
+  {
+    "title": "Demo Item 7",
+    "description": "This is a demo item for testing.",
+    "price": 349.57,
+    "category_id": 2,
+    "condition_type": "Like New",
+    "location": "Alexandria, VA",
+    "image_url": "https://images.offerup.com/0/3a9ih0xxkc70ip2i80qsjlafsi5vjso9/0/0"
+  },
+  {
+    "title": "Demo Item 8",
+    "description": "This is a demo item for testing.",
+    "price": 27.72,
+    "category_id": 1,
+    "condition_type": "Poor",
+    "location": "Arlington, VA",
+    "image_url": "https://images.offerup.com/0/m2oqbqa0sddvyd276egaeov3dv83y8t8/0/0"
+  },
+  {
+    "title": "Demo Item 9",
+    "description": "This is a demo item for testing.",
+    "price": 230.86,
+    "category_id": 2,
+    "condition_type": "Fair",
+    "location": "Hayward, CA",
+    "image_url": "https://images.offerup.com/0/z2s5ouu5n03yj6bwchg2jc0i8fy2qh2e/0/0"
+  },
+  {
+    "title": "Demo Item 10",
+    "description": "This is a demo item for testing.",
+    "price": 148.62,
+    "category_id": 3,
+    "condition_type": "Poor",
+    "location": "Alexandria, VA",
+    "image_url": "https://images.offerup.com/0/h4703sm3g0trajr32fiaf5bc9pi6clne/0/0"
+  },
+  {
+    "title": "Demo Item 11",
+    "description": "This is a demo item for testing.",
+    "price": 412.06,
+    "category_id": 4,
+    "condition_type": "Good",
+    "location": "Falls Church, VA",
+    "image_url": "https://images.offerup.com/0/j37upuaap3du5tbvwvtw7iusoruscygn/0/0"
+  },
+  {
+    "title": "Demo Item 12",
+    "description": "This is a demo item for testing.",
+    "price": 181.62,
+    "category_id": 4,
+    "condition_type": "Good",
+    "location": "Washington, DC",
+    "image_url": "https://images.offerup.com/0/evew96ip9qhqyqooclcrljq2rwauhfbz/0/0"
+  },
+  {
+    "title": "Demo Item 13",
+    "description": "This is a demo item for testing.",
+    "price": 151.3,
+    "category_id": 1,
+    "condition_type": "New",
+    "location": "Manassas, VA",
+    "image_url": "https://images.offerup.com/0/xmdsi8fnh44br5n5z6zswa8dp0dattnj/0/0"
+  },
+  {
+    "title": "Demo Item 14",
+    "description": "This is a demo item for testing.",
+    "price": 352.05,
+    "category_id": 2,
+    "condition_type": "Like New",
+    "location": "Alexandria, VA",
+    "image_url": "https://images.offerup.com/0/zwvm9tf9vwlhfsuhome7j3kzgjck3e6x/0/0"
+  },
+  {
+    "title": "Demo Item 15",
+    "description": "This is a demo item for testing.",
+    "price": 146.95,
+    "category_id": 4,
+    "condition_type": "New",
+    "location": "Manassas, VA",
+    "image_url": "https://images.offerup.com/0/uk3mvn3xfxmt2f9q2w2pzshurzqykf5u/0/0"
+  },
+  {
+    "title": "Demo Item 16",
+    "description": "This is a demo item for testing.",
+    "price": 289.06,
+    "category_id": 2,
+    "condition_type": "Good",
+    "location": "Manassas, VA",
+    "image_url": "https://images.offerup.com/0/k5vo5lmz1pn5uczohcyrnutg3gvg608k/0/0"
+  },
+  {
+    "title": "Demo Item 17",
+    "description": "This is a demo item for testing.",
+    "price": 36.19,
+    "category_id": 5,
+    "condition_type": "New",
+    "location": "Springfield, VA",
+    "image_url": "https://images.offerup.com/0/iqbhjhutgx56an2sjaytj3k56p7938pc/0/0"
+  },
+  {
+    "title": "Demo Item 18",
+    "description": "This is a demo item for testing.",
+    "price": 148.42,
+    "category_id": 1,
+    "condition_type": "Good",
+    "location": "Silver Spring, MD",
+    "image_url": "https://images.offerup.com/0/dkjhpqduop6c51foiilzeyssj1ewdtg6/0/0"
+  },
+  {
+    "title": "Demo Item 19",
+    "description": "This is a demo item for testing.",
+    "price": 35.61,
+    "category_id": 2,
+    "condition_type": "Poor",
+    "location": "Springfield, VA",
+    "image_url": "https://images.offerup.com/0/8py78l9devf829y9oszbedlwt9xzoobv/0/0"
+  },
+  {
+    "title": "Demo Item 20",
+    "description": "This is a demo item for testing.",
+    "price": 237.7,
+    "category_id": 4,
+    "condition_type": "New",
+    "location": "Manassas, VA",
+    "image_url": "https://images.offerup.com/0/yjltipq0kjzzfi5l92mty36gah0bk9x9/0/0"
+  },
+  {
+    "title": "Demo Item 21",
+    "description": "This is a demo item for testing.",
+    "price": 58.11,
+    "category_id": 4,
+    "condition_type": "Fair",
+    "location": "Springfield, VA",
+    "image_url": "https://images.offerup.com/0/5hdgyk40rhbxcihgqgs7tvoe9peyx42h/0/0"
+  },
+  {
+    "title": "Demo Item 22",
+    "description": "This is a demo item for testing.",
+    "price": 124.61,
+    "category_id": 3,
+    "condition_type": "Good",
+    "location": "Springfield, VA",
+    "image_url": "https://images.offerup.com/0/m69kmeft7ri63074tpkp9853x1smrap5/0/0"
+  },
+  {
+    "title": "Demo Item 23",
+    "description": "This is a demo item for testing.",
+    "price": 378.12,
+    "category_id": 3,
+    "condition_type": "Good",
+    "location": "Washington, DC",
+    "image_url": "https://images.offerup.com/0/uksoh551umzkyggaffxh361pjcwjnh3i/0/0"
+  },
+  {
+    "title": "Demo Item 24",
+    "description": "This is a demo item for testing.",
+    "price": 452.12,
+    "category_id": 1,
+    "condition_type": "Fair",
+    "location": "Springfield, VA",
+    "image_url": "https://images.offerup.com/0/gcvzngkjy7mazbmjvrvmc3jp6wm89ozn/0/0"
+  },
+  {
+    "title": "Demo Item 25",
+    "description": "This is a demo item for testing.",
+    "price": 79.85,
+    "category_id": 1,
+    "condition_type": "Poor",
+    "location": "Hayward, CA",
+    "image_url": "https://images.offerup.com/0/p2w91wcdqvpr5iec2qf8fg8ckps5waw6/0/0"
+  },
+  {
+    "title": "Demo Item 26",
+    "description": "This is a demo item for testing.",
+    "price": 393.88,
+    "category_id": 1,
+    "condition_type": "Like New",
+    "location": "Falls Church, VA",
+    "image_url": "https://images.offerup.com/0/22eetz6ce2tmf6tlyvm5plaoxwhkrg1t/0/0"
+  },
+  {
+    "title": "Demo Item 27",
+    "description": "This is a demo item for testing.",
+    "price": 421.1,
+    "category_id": 4,
+    "condition_type": "Fair",
+    "location": "Dulles, VA",
+    "image_url": "https://images.offerup.com/0/ncs84u17q92rwe8sx93uig1xrtsvi4xo/0/0"
+  },
+  {
+    "title": "Demo Item 28",
+    "description": "This is a demo item for testing.",
+    "price": 300.68,
+    "category_id": 5,
+    "condition_type": "Poor",
+    "location": "Silver Spring, MD",
+    "image_url": "https://images.offerup.com/0/h3lc4h4fnv653hw41m3d6sblwzhucgax/0/0"
+  },
+  {
+    "title": "Demo Item 29",
+    "description": "This is a demo item for testing.",
+    "price": 464.27,
+    "category_id": 3,
+    "condition_type": "New",
+    "location": "Springfield, VA",
+    "image_url": "https://images.offerup.com/0/tadlv0af575nv6drlsjmgp02ezg8exis/0/0"
+  },
+  {
+    "title": "Demo Item 30",
+    "description": "This is a demo item for testing.",
+    "price": 26.47,
+    "category_id": 5,
+    "condition_type": "Poor",
+    "location": "Dulles, VA",
+    "image_url": "https://images.offerup.com/0/pwej2f6vgspteb8708jfmo7tw4gztq5p/0/0"
+  },
+  {
+    "title": "Demo Item 31",
+    "description": "This is a demo item for testing.",
+    "price": 122.06,
+    "category_id": 2,
+    "condition_type": "New",
+    "location": "Arlington, VA",
+    "image_url": "https://images.offerup.com/0/23pxh429qk5bp4yip3y2lwsrprb4y6el/0/0"
+  },
+  {
+    "title": "Demo Item 32",
+    "description": "This is a demo item for testing.",
+    "price": 214.2,
+    "category_id": 1,
+    "condition_type": "Fair",
+    "location": "Falls Church, VA",
+    "image_url": "https://images.offerup.com/0/5kwk8xtyap7spa89fgno63j7989kfcjy/0/0"
+  },
+  {
+    "title": "Demo Item 33",
+    "description": "This is a demo item for testing.",
+    "price": 232.55,
+    "category_id": 1,
+    "condition_type": "Poor",
+    "location": "Rockville, MD",
+    "image_url": "https://images.offerup.com/0/ft8fvpy47l39v4r1g87o07jiqf9nnl3r/0/0"
+  },
+  {
+    "title": "Demo Item 34",
+    "description": "This is a demo item for testing.",
+    "price": 82.42,
+    "category_id": 4,
+    "condition_type": "Poor",
+    "location": "Manassas, VA",
+    "image_url": "https://images.offerup.com/0/3q8e5e31m860te9ohyebztjo3czy4xcc/0/0"
+  },
+  {
+    "title": "Demo Item 35",
+    "description": "This is a demo item for testing.",
+    "price": 487.41,
+    "category_id": 3,
+    "condition_type": "Good",
+    "location": "Dulles, VA",
+    "image_url": "https://images.offerup.com/0/hoy1fl5yzqvuqkzj6sbi3flbxygi91a4/0/0"
+  },
+  {
+    "title": "Demo Item 36",
+    "description": "This is a demo item for testing.",
+    "price": 471.85,
+    "category_id": 1,
+    "condition_type": "Poor",
+    "location": "Rockville, MD",
+    "image_url": "https://images.offerup.com/0/eeejz7x1vl6z469yxrjoiy55ikvlrzx7/0/0"
+  },
+  {
+    "title": "Demo Item 37",
+    "description": "This is a demo item for testing.",
+    "price": 364.49,
+    "category_id": 3,
+    "condition_type": "Like New",
+    "location": "Silver Spring, MD",
+    "image_url": "https://images.offerup.com/0/pgi7tpw18kt1pr7viaewhhr6r1swnvxc/0/0"
+  },
+  {
+    "title": "Demo Item 38",
+    "description": "This is a demo item for testing.",
+    "price": 478.19,
+    "category_id": 5,
+    "condition_type": "Good",
+    "location": "Rockville, MD",
+    "image_url": "https://images.offerup.com/0/4v2e67osi1pjw1xdnx00pos0g0tf6dyo/0/0"
+  },
+  {
+    "title": "Demo Item 39",
+    "description": "This is a demo item for testing.",
+    "price": 372.33,
+    "category_id": 2,
+    "condition_type": "Poor",
+    "location": "Silver Spring, MD",
+    "image_url": "https://images.offerup.com/0/6aze92wpv5uysfr1lxce8cbskjvnlwik/0/0"
+  },
+  {
+    "title": "Demo Item 40",
+    "description": "This is a demo item for testing.",
+    "price": 171.19,
+    "category_id": 1,
+    "condition_type": "Like New",
+    "location": "Manassas, VA",
+    "image_url": "https://images.offerup.com/0/qwk3ona43ettgxvsxzyd909mp8ba23n6/0/0"
+  },
+  {
+    "title": "Demo Item 41",
+    "description": "This is a demo item for testing.",
+    "price": 229.55,
+    "category_id": 2,
+    "condition_type": "Good",
+    "location": "Rockville, MD",
+    "image_url": "https://images.offerup.com/0/qmyezpc2wmsdr56aqv9ealguxwvdnq3y/0/0"
+  },
+  {
+    "title": "Demo Item 42",
+    "description": "This is a demo item for testing.",
+    "price": 283.95,
+    "category_id": 5,
+    "condition_type": "Fair",
+    "location": "Dulles, VA",
+    "image_url": "https://images.offerup.com/0/xvybyqrp5topfad5ni8aodp0ugaztthq/0/0"
+  },
+  {
+    "title": "Demo Item 43",
+    "description": "This is a demo item for testing.",
+    "price": 170.01,
+    "category_id": 2,
+    "condition_type": "New",
+    "location": "Dulles, VA",
+    "image_url": "https://images.offerup.com/0/skxm7l5bj96aehzq7tmkusfgnkzc8ldx/0/0"
+  },
+  {
+    "title": "Demo Item 44",
+    "description": "This is a demo item for testing.",
+    "price": 36.22,
+    "category_id": 1,
+    "condition_type": "Good",
+    "location": "Springfield, VA",
+    "image_url": "https://images.offerup.com/0/25pzvwhh560upm6632b07svkqlnrtvil/0/0"
+  },
+  {
+    "title": "Demo Item 45",
+    "description": "This is a demo item for testing.",
+    "price": 7.76,
+    "category_id": 1,
+    "condition_type": "Poor",
+    "location": "Springfield, VA",
+    "image_url": "https://images.offerup.com/0/7273hzy9t5egbtymqyufvcyina14xs1k/0/0"
+  },
+  {
+    "title": "Demo Item 46",
+    "description": "This is a demo item for testing.",
+    "price": 282.53,
+    "category_id": 2,
+    "condition_type": "New",
+    "location": "Silver Spring, MD",
+    "image_url": "https://images.offerup.com/0/ee0fc0v1zbly35bahneu17znr7pwnsq3/0/0"
+  },
+  {
+    "title": "Demo Item 47",
+    "description": "This is a demo item for testing.",
+    "price": 494.0,
+    "category_id": 4,
+    "condition_type": "Poor",
+    "location": "Rockville, MD",
+    "image_url": "https://images.offerup.com/0/crkc2c1tckh7kuqwxw4xwvv0igfvzub3/0/0"
+  },
+  {
+    "title": "Demo Item 48",
+    "description": "This is a demo item for testing.",
+    "price": 169.43,
+    "category_id": 3,
+    "condition_type": "Like New",
+    "location": "Springfield, VA",
+    "image_url": "https://images.offerup.com/0/wnv4gx0acsrxaqoqkjvimshx76jo0pwh/0/0"
+  },
+  {
+    "title": "Demo Item 49",
+    "description": "This is a demo item for testing.",
+    "price": 122.47,
+    "category_id": 1,
+    "condition_type": "Like New",
+    "location": "Manassas, VA",
+    "image_url": "https://images.offerup.com/0/fb54dr20n66qf94iytpycusjw4b82w78/0/0"
+  },
+  {
+    "title": "Demo Item 50",
+    "description": "This is a demo item for testing.",
+    "price": 194.32,
+    "category_id": 2,
+    "condition_type": "Like New",
+    "location": "Springfield, VA",
+    "image_url": "https://images.offerup.com/0/hpz06jctgbr1xij1idnjce3dkzk0ch2i/0/0"
+  }
+]

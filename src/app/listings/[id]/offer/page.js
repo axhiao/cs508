@@ -46,7 +46,7 @@ export default function MakeOfferPage({ params }) {
       <div className="mb-8">
         <h1 className="text-3xl font-bold mb-2">Make an Offer</h1>
         <p className="text-gray-600">
-          Enter your offer amount for this item. Make sure to consider the item's
+          Enter your offer amount for this item. Make sure to consider the item&apos;s
           condition and market value.
         </p>
       </div>

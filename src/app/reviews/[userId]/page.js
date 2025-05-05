@@ -83,7 +83,7 @@ export default function UserReviewsPage({ params }) {
       <div className="mb-8">
         <h1 className="text-3xl font-bold mb-2">User Reviews</h1>
         <p className="text-gray-600">
-          Read what others have to say about this user's transactions.
+          Read what others have to say about this user&apos;s transactions.
         </p>
       </div>
 

@@ -48,7 +48,7 @@ async function getListings({ category, minPrice, maxPrice, condition }) {
     console.log(query);
     console.log(params);
     const [rows] = await pool.query(query, params);
-    console.log(rows);
+    // console.log(rows);
     return rows;
   } catch (error) {
     console.error('Error fetching listings:', error);

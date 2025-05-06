@@ -1,6 +1,5 @@
 import { NextResponse } from 'next/server';
-import path from 'path';
-import fs from 'fs';
+import { put } from '@vercel/blob';
 
 export const runtime = 'nodejs';
 
@@ -10,13 +9,15 @@ export async function POST(req) {
   if (!file) {
     return NextResponse.json({ message: 'No file uploaded' }, { status: 400 });
   }
-  const buffer = Buffer.from(await file.arrayBuffer());
-  const ext = path.extname(file.name) || '.jpg';
-  const fileName = `${Date.now()}-${Math.random().toString(36).slice(2)}${ext}`;
-  const uploadDir = path.join(process.cwd(), 'public', 'uploads');
-  if (!fs.existsSync(uploadDir)) fs.mkdirSync(uploadDir, { recursive: true });
-  const filePath = path.join(uploadDir, fileName);
-  fs.writeFileSync(filePath, buffer);
-  const url = `/uploads/${fileName}`;
-  return NextResponse.json({ url });
+  const arrayBuffer = await file.arrayBuffer();
+  const buffer = Buffer.from(arrayBuffer);
+  const ext = file.name.split('.').pop() || 'jpg';
+  const fileName = `${Date.now()}-${Math.random().toString(36).slice(2)}.${ext}`;
+
+  // 上传到 Vercel Blob
+  const blob = await put(fileName, buffer, {
+    access: 'public',
+  });
+
+  return NextResponse.json({ url: blob.url });
 } 

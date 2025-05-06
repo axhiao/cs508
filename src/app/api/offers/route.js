@@ -53,6 +53,11 @@ export async function POST(request) {
     if (!listing_id || !offer_amount) {
       return NextResponse.json({ message: 'Listing ID and offer amount are required' }, { status: 400 });
     }
+    // 查询用户余额
+    const [[user]] = await pool.query('SELECT wallet_balance FROM users WHERE user_id = ?', [userId]);
+    if (!user || parseFloat(user.wallet_balance) < parseFloat(offer_amount)) {
+      return NextResponse.json({ message: 'Insufficient balance to make this offer' }, { status: 400 });
+    }
     const [listings] = await pool.query('SELECT * FROM listings WHERE listing_id = ? AND is_available = true', [listing_id]);
     if (listings.length === 0) {
       return NextResponse.json({ message: 'Listing not found or not available' }, { status: 404 });

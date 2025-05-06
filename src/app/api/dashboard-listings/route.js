@@ -11,10 +11,10 @@ export async function GET() {
   const userId = session.user.id;
   const [listings] = await pool.query(
     `SELECT l.*, c.name as category_name
-     FROM listings l
-     JOIN categories c ON l.category_id = c.category_id
-     WHERE l.seller_id = ?
-     ORDER BY l.created_at DESC`,
+      FROM listings l
+      JOIN categories c ON l.category_id = c.category_id
+      WHERE l.seller_id = ?
+      ORDER BY l.created_at DESC`,
     [userId]
   );
   return NextResponse.json(listings);

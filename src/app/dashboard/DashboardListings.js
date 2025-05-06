@@ -31,7 +31,7 @@ export default function DashboardListings({ initialListings }) {
   // 删除
   const handleDelete = async (id) => {
     setLoading(true);
-    await fetch(`/api/listings?id=${id}`, { method: 'DELETE' });
+    await fetch(`/api/listings/${id}`, { method: 'DELETE' });
     setDeleteId(null);
     await refresh();
   };
